@@ -1,4 +1,4 @@
-## 🩵 Welcome to my Github 💜
+## 🩵 Welcome to my GitHub 💜
 
 <!--
 **AlejandraBeltranMorales/AlejandraBeltranMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 4th year Computer Science university student at Polytechnic University of Valencia. Also enrolled as an ERASMUS student at Technische Universität Berlin.
 - 🔭 I’m currently a 4th-year university student at Polytechnic University of Valencia. I've been an ERASMUS student at Technische Universität Berlin, where I created my first big project.
-- 🌱 I’m currently interested in machine learning and cybersecurity projects. I strive to have many of them exposed in my Github. My background includes coursework in intelligent cybersecurity applications, adversarial machine learning, cloud computing, and smart security labs. However, I'm still learning and there's much I still don't know.
+- 🌱 I’m currently interested in machine learning and cybersecurity projects. I strive to have many of them exposed in my GitHub. My background includes coursework in intelligent cybersecurity applications, adversarial machine learning, cloud computing, and smart security labs. However, I'm still learning and there's much I still don't know.
 - 👯 I’m looking to collaborate on cybersecurity-related projects, including adversarial attack analysis, online model evaluation, and intelligent security applications. 
 - ⚡ Fun fact - I tend to overthink a lot 😶‍🌫️
 
