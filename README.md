@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🔭 I’m a Computer Engineer passionate about cybersecurity and currently enrolled in a Master’s program in Cybersecurity & Privacy at UOC. I've been an ERASMUS student at Technische Universität Berlin, where I created my first big projects.
-- 🌱 I’m very interested in machine learning and cybersecurity projects. I strive to have many of them exposed on my GitHub. My background includes coursework in intelligent cybersecurity applications, adversarial machine learning, cloud computing, and smart security labs. However, I'm still learning, and there's much I still don't know.
-- 👯 I’m looking to collaborate on cybersecurity-related projects, including adversarial attack analysis, online model evaluation, and intelligent security applications. 
+- 🔭 I'm a computer engineer with a passion for cybersecurity, and I am currently pursuing a Master's degree in Cybersecurity and Privacy at UOC. I've been an ERASMUS student at Technische Universität Berlin, where I created my first big projects.
+- 🌱 I'm very interested in machine learning and cybersecurity projects. I strive to have many of them exposed on my GitHub. My background includes coursework in intelligent cybersecurity applications, adversarial machine learning, cloud computing, and smart security labs. However, I'm still learning, and there's much I still don't know.
+- 👯 I'm looking to collaborate on cybersecurity-related projects, including adversarial attack analysis, online model evaluation, and intelligent security applications. 
 - ⚡ Fun fact - I tend to overthink sometimes 😶‍🌫️
 
 # 💻 Tech Stack:
